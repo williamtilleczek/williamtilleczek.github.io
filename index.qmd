@@ -15,3 +15,5 @@ about:
 Welcome!  I am a Postdoctoral Fellow in Political Theory at McGill University, studying questions of ethics, labour, self-cultivation, and citizenship with and beyond the works of Michel Foucault. 
 
 My question: How, if at all, can changing the self change the world?
+
+![](McGillLogo.jpeg){width="180" height="44"}
