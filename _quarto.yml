@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs 
+
+website:
+  title: "WILLIAM TILLECZEK"
+  navbar:
+    left:
+      - href: index.qmd
+        text: HOME
+      - about.qmd
+      - research.qmd
+      - teaching.qmd
+      - text: "CV"
+        href: cv/index.qmd
+      - contact.qmd
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,15 @@
+---
+title: "CONTACT"
+about: 
+  template: marquee
+---
+
+William Tilleczek
+
+[william.tilleczek\@mail.mcgill.ca](mailto:william.tilleczek@mail.mcgill.ca)
+
+**Department of Political Science**\
+McGill University\
+Leacock Building, 4th Floor\
+855 Sherbrooke Street West\
+Montreal, Quebec, H3A 2T7
