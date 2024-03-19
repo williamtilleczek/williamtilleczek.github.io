@@ -16,4 +16,7 @@ Welcome!  I am a Postdoctoral Fellow in Political Theory at McGill University, 
 
 My question: How, if at all, can changing the self change the world?
 
-![](McGillLogo.png){width="169"}
+
+![](McGillLogo.png){width="160"}
+![](CCEAE.png){width="130"}
+
