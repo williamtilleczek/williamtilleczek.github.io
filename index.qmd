@@ -4,6 +4,9 @@ about:
   template: jolla
   image: DSC_9159.jpg
   links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/william-tilleczek-140741319/
     - icon: google
       text: Google Scholar
       href: https://scholar.google.com/citations?user=TtsM7ocAAAAJ&hl=fr

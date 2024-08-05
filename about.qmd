@@ -5,12 +5,11 @@ about:
     image: banner.jpg
 ---
 
-I am a political theorist and currently a SSHRC Postdoctoral Fellow at McGill University and L’Université de Montréal, where I am a member of the Research Group on Constitutional Studies and the Centre canadien d'études allemandes et européennes, respectively.  Previously, I was a Visiting Assistant Professor at Deep Springs College.  I hold a PhD and an MA in Government from Harvard University.
+I am a political theorist and currently a SSHRC Postdoctoral Fellow at McGill University and L’Université de Montréal, where I am a member of the <a href="https://www.mcgill.ca/rgcs/" target="_blank">Research Group on Constitutional Studies</a> and the <a href="https://cceae.umontreal.ca" target="_blank">Centre canadien d'études allemandes et européennes</a>, respectively.  Previously, I was a Visiting Assistant Professor at Deep Springs College.  I hold a PhD and an MA in Government from Harvard University.
 
 My research and teaching expertise are in 20^th^ century political thought and ancient political thought, and I study how ‘ethics’ and ‘politics’ intersect in domains such as labour, education, self-cultivation, physical training, and decolonization.  I am also a specialist in the thought of Michel Foucault.
 
 My question: How, if at all, can changing the self change the world?  And is this question itself a neoliberal trap? 
-
 
 ## **EDUCATION**
 
@@ -20,20 +19,17 @@ Harvard University, 2016–2022
 
 Dissertation: *Powers of Practice: Michel Foucault and the Politics of Asceticism* <a href="https://dash.harvard.edu/handle/1/37373683" target="_blank">(Available here)</a>
 
-Recipient of the APSA Leo Strauss Award for Best Dissertation in a Topic of Political Philosophy
+Recipient of the <a href="https://politicalsciencenow.com/congratulations-to-the-2024-apsa-award-winners/" target="_blank">APSA Leo Strauss Award</a> for Best Dissertation in a Topic of Political Philosophy
 
 Committee: Danielle Allen (chair); Katrina Forrester; Elizabeth Lunbeck; Panagiotis Roilos
-
 
 **MA in Political Science**
 
 University of Toronto, 2014–2015
 
-
 **BA (First Class Honours) in Contemporary Studies and English,** **with Minor in Classics**
 
 University of King’s College and Dalhousie University, 2009–2014
-
 
 ## **BIO**
 
