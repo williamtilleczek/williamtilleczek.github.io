@@ -4,7 +4,7 @@ about:
   template: marquee
 ---
 
-William Tilleczek
+**William Tilleczek**
 
 [william.tilleczek\@mail.mcgill.ca](mailto:william.tilleczek@mail.mcgill.ca)
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum vitae
+title: CURRICULUM VITAE
 about: 
   template: marquee
 excerpt: My current CV
