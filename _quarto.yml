@@ -5,6 +5,14 @@ project:
 website:
   google-analytics: G-YPLPB5BV32
   title: "WILLIAM TILLECZEK"
+  
+  page-footer: 
+    right:
+      - text: "Last modified: August 2024"
+    border: true
+    background: "#303d4e"
+    foreground: white
+  
   navbar:
     left:
       - href: index.qmd
