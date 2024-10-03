@@ -8,7 +8,7 @@ website:
   
   page-footer: 
     right:
-      - text: "Last modified: September 2024"
+      - text: "Last modified: October 2024"
     border: true
     background: "#303d4e"
     foreground: white
