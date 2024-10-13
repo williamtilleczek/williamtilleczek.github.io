@@ -15,11 +15,8 @@ about:
       href: "mailto:william.tilleczek@mail.mcgill.ca"
 ---
 
-Welcome!  I am a Postdoctoral Fellow in Political Theory at McGill University, studying questions of ethics, labour, self-cultivation, and citizenship with and beyond the works of Michel Foucault. 
+Welcome!  I am a Postdoctoral Fellow in Political Theory at McGill University, studying questions of ethics, labour, domination, self-cultivation, and citizenship with and beyond the works of Michel Foucault. 
 
 My question: How, if at all, can changing the self change the world?
 
-
-![](McGillLogo.png){width="160"}
-![](CCEAE.png){width="130"}
-
+![](McGillLogo.png){width="160"} ![](CCEAE.png){width="130"}
