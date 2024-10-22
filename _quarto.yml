@@ -7,8 +7,9 @@ website:
   title: "WILLIAM TILLECZEK"
   
   page-footer: 
-    right:
-      - text: "Last modified: October 2024"
+    right: |
+      Made with <a href="https://quarto.org" target="_blank">Quarto</a>\
+      <span style="color: #FDA172">Last modified: October 2024</span>
     border: true
     background: "#303d4e"
     foreground: white
