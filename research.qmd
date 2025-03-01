@@ -1,5 +1,5 @@
 ---
-title: "RESEARCH & PUBLICATIONS"
+title: "WRITING"
 about: 
   template: marquee
 ---
@@ -10,21 +10,22 @@ I aim to develop a sufficiently nuanced theory of what self-transformation has e
 
 The title that I give to my general research agenda is "global political asceticisms."  I undertake the global, contextual, and comparative study of organized systems for the training and modification of bodily and mental capacities.  Most recently, I have been exploring Gandhi’s ascetic activism and the ashram as an "ascetic technology" for the generation of anticolonial and anticapitalist political agency.  
 
-### **Books (in progress)**
+## **Publications**
+---
 
-*The City and Self-Transformation: Michel Foucault and the Death of Politics*\
+### <span style="color: #4169E1">Book (in progress)</span>
+
+The City and Self-Transformation: Michel Foucault and the Death of Politics\
 <a href="https://www.mcgill.ca/lin-centre/channels/event/rgcs-william-tilleczek-book-manuscript-workshop-360190" target="_blank">Book manuscript workshop info</a>
 
-*Simone Weil, Labour, and the (Post)Marxist Tradition* (edited by William Tilleczek and Pascale Devette)
+### <span style="color: #4169E1">Dissertation</span>
 
-### **Dissertation**
+Powers of Practice: Michel Foucault and the Politics of Asceticism. <a href="https://dash.harvard.edu/handle/1/37373683" target="_blank">Available here</a>\
+<span style="color: #C76E00">Recipient of the <a href="https://politicalsciencenow.com/william-tilleczek-receives-the-2024-leo-strauss-award-for-powers-of-practice-michel-foucault-and-the-politics-of-asceticism/" target="_blank">APSA Leo Strauss Award</a> for Best Dissertation in a Topic of Political Philosophy</span>
 
-*Powers of Practice: Michel Foucault and the Politics of Asceticism.* <a href="https://dash.harvard.edu/handle/1/37373683" target="_blank">Available here</a>\
-Recipient of the <a href="https://politicalsciencenow.com/william-tilleczek-receives-the-2024-leo-strauss-award-for-powers-of-practice-michel-foucault-and-the-politics-of-asceticism/" target="_blank">APSA Leo Strauss Award</a> for Best Dissertation in a Topic of Political Philosophy
+### <span style="color: #4169E1">Peer reviewed publications</span>
 
-### **List of publications**
-
-*(Please <a href="contact.qmd" target="_blank">email me</a> if you would like a PDF of any of the below for personal research use)*
+“Labour, Ethics, and the Training Milieu: The Case of AI and Translation Work.” *Global Labour Journal*, 16(2) (May 2025, forthcoming).
 
 “<a href="https://brill.com/view/journals/jph/18/3/article-p365_6.xml?rskey=qPuq6p&result=18" target="_blank">Training the Philosopher King: Ancient Models of Political Action in Hannah Arendt and Michel Foucault</a>.” *Journal of the Philosophy of History*, 18(3) (November 2024), 365-391.
 
@@ -32,26 +33,36 @@ Recipient of the <a href="https://politicalsciencenow.com/william-tilleczek-rece
 
 “<a href="https://ojs.library.dal.ca/dionysius/article/view/12200" target="_blank">Between Authority and Care: Plato’s *Crito* as Defense of the Philosophical Life</a>.” *Dionysius,* 39 (July 2024), 97-129.
 
+“<a href="https://muse.jhu.edu/pub/1/article/909213" target="_blank">On the Ownership of the Means of Training: Domination, Asceticism, and Capacities of Resistance</a>.” *Theory & Event,* 26(4) (October 2023), 701-726.
+
+“<a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003126508-6/graffiti-walls-katherine-boydell-vanessa-sinopoli-elaine-stasiulis-brenda-gladstone-kate-tilleczek-alexandra-gibson-william-tilleczek-michael-hodgins" target="_blank">Graffiti Walls: Arts-Based Mental Health Knowledge Translation with Young People in Secondary Schools</a>,” in *Creative Approaches to Health Education: New Ways of Thinking, Making, Doing, Teaching and Learning*. Ed. Deborah Lupton and Deana Leahy. London: Routledge, 2021. (With Katherine Boydell et al.).
+
+### <span style="color: #4169E1">Essays and translations</span>
+
 “<a href="https://mulpress.mcmaster.ca/globallabour/article/view/5739" target="_blank">Simone Weil’s ‘Rationalisation’: Translated from French & Annotated</a>,” *Global Labour Journal*, 15(1) (January 2024), 64-74.
 
 “<a href="https://mulpress.mcmaster.ca/globallabour/article/view/5738" target="_blank">Human Being, Working Body, Working Day</a>,” *Global Labour Journal*, 15(1) (January 2024), 58-63.
 
-“<a href="https://muse.jhu.edu/pub/1/article/909213" target="_blank">On the Ownership of the Means of Training: Domination, Asceticism, and Capacities of Resistance</a>.” *Theory & Event,* 26(4) (October 2023), 701-726.
+### <span style="color: #4169E1">Book reviews</span>
 
 “<a href="https://rauli.cbs.dk/index.php/foucault-studies/article/view/6935" target="_blank">(Review of) Mark Coeckelbergh, *Self-Improvement: Technologies of the Soul in the Age of Artificial Intelligence*</a>.” *Journal of Foucault Studies,* No. 34 (2023): 52-56.
 
 “<a href="https://rauli.cbs.dk/index.php/foucault-studies/article/view/6708" target="_blank">(Review of) Niki Kasumi Clements, *Sites of the Ascetic Self: John Cassian and Christian Ethical Formation*</a>.” *Journal of Foucault Studies*, No. 32 (2022): 388-391.
 
-“<a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003126508-6/graffiti-walls-katherine-boydell-vanessa-sinopoli-elaine-stasiulis-brenda-gladstone-kate-tilleczek-alexandra-gibson-william-tilleczek-michael-hodgins" target="_blank">Graffiti Walls: Arts-Based Mental Health Knowledge Translation with Young People in Secondary Schools</a>,” in *Creative Approaches to Health Education: New Ways of Thinking, Making, Doing, Teaching and Learning*. Ed. Deborah Lupton and Deana Leahy. London: Routledge, 2021. (With Katherine Boydell et al.).
 
-**In addition** to the above listed works, I currently have essays under review on the following themes:
+<span style="color: #7393B3">(Please <a href="contact.qmd" target="_blank">email me</a> if you would like a PDF of any of the above for personal research use)</span>
 
-1.  Anticolonial ethics of self-cultivation and asceticism as anticolonial practice of liberation in thinkers such as Gandhi and Frederick Douglass (co-authored with Dimitri M’Bama)
+## **Current projects**
+---
 
-2.  AI technology’s impact on translation as an intercultural practice, and the attendant loss of skills for mutual comprehension and global dialogue
+### <span style="color: #4169E1">Articles under review</span>
 
-3.  Inés Valdez’ work on racial capitalism, migration, and the failure of the left to meet the challenges of contemporary emancipatory democracy, in conversation with Frantz Fanon
+I currently have works under review on the following themes:
 
-4.  A historical survey of the moralization of wealth and poverty in the ancient world
+1.  Anticolonial ethics of self-cultivation and asceticism as anticolonial practice in thinkers such as Gandhi and Frederick Douglass (co-authored with Dimitri M’Bama)
 
-These works serve as first studies towards a second book project that is tentatively entitled: *Social Domination and Political Asceticism: History, Theory, Strategy.*
+2.  Inés Valdez’ work on racial capitalism, migration, and the failure of the left to meet the challenges of contemporary emancipatory democracy
+
+3.  A historical survey of the moralization of wealth and poverty in the ancient world
+
+These works serve as first studies towards a second book project that is tentatively entitled: *A Comparative History of Political Asceticisms*.

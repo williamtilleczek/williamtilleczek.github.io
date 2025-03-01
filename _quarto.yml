@@ -9,7 +9,9 @@ website:
   page-footer: 
     right: |
       Made with <a href="https://quarto.org" target="_blank">Quarto</a>\
-      <span style="color: #FDA172">Last modified: November 2024</span>
+      <span style="color: #FDA172">Last modified: March 2025</span>
+    left: |
+      <span style="color: #FFFFFF">&copy; 2024 William Tilleczek</span>
     border: true
     background: "#303d4e"
     foreground: white
