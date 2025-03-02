@@ -2,7 +2,6 @@
 title: "ABOUT"
 about: 
     template: marquee
-    image: banner.jpg
 ---
 
 I am a political theorist and currently a SSHRC Postdoctoral Fellow at McGill University and L’Université de Montréal, where I am a member of the <a href="https://www.mcgill.ca/rgcs/" target="_blank">Research Group on Constitutional Studies</a> and the <a href="https://cceae.umontreal.ca" target="_blank">Centre canadien d'études allemandes et européennes</a>, respectively.  Previously, I was a Visiting Assistant Professor at Deep Springs College.  I hold a PhD in Government from Harvard University, where my dissertation was awarded the <a href="https://politicalsciencenow.com/william-tilleczek-receives-the-2024-leo-strauss-award-for-powers-of-practice-michel-foucault-and-the-politics-of-asceticism/" target="_blank">APSA Leo Strauss Award</a> for Best Dissertation in Political Philosophy.

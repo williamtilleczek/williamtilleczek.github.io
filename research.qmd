@@ -13,17 +13,27 @@ The title that I give to my general research agenda is "global political ascetic
 ## **Publications**
 ---
 
-### <span style="color: #4169E1">Book (in progress)</span>
+### <span style="color: #b76e5f">Book (in progress)</span>
 
 The City and Self-Transformation: Michel Foucault and the Death of Politics\
-<a href="https://www.mcgill.ca/lin-centre/channels/event/rgcs-william-tilleczek-book-manuscript-workshop-360190" target="_blank">Book manuscript workshop info</a>
+```{=html}
+<p class="text-left">
+  <a class="btn btn-info btn-sm" href="https://www.mcgill.ca/lin-centre/channels/event/rgcs-william-tilleczek-book-manuscript-workshop-360190" target="_blank">
+    </i>&ensp;Book manuscript workshop info
+  </a>
+```
 
-### <span style="color: #4169E1">Dissertation</span>
+### <span style="color: #b76e5f">Dissertation</span>
 
-Powers of Practice: Michel Foucault and the Politics of Asceticism. <a href="https://dash.harvard.edu/handle/1/37373683" target="_blank">Available here</a>\
-<span style="color: #C76E00">Recipient of the <a href="https://politicalsciencenow.com/william-tilleczek-receives-the-2024-leo-strauss-award-for-powers-of-practice-michel-foucault-and-the-politics-of-asceticism/" target="_blank">APSA Leo Strauss Award</a> for Best Dissertation in a Topic of Political Philosophy</span>
+Powers of Practice: Michel Foucault and the Politics of Asceticism <a href="https://dash.harvard.edu/handle/1/37373683" target="_blank">(Available here)</a>\
+```{=html}
+<p class="text-left">
+  <a class="btn btn-info btn-sm" href="https://politicalsciencenow.com/william-tilleczek-receives-the-2024-leo-strauss-award-for-powers-of-practice-michel-foucault-and-the-politics-of-asceticism/" target="_blank">
+    </i>&ensp;Recipient of the APSA Leo Strauss Award
+  </a>
+```
 
-### <span style="color: #4169E1">Peer reviewed publications</span>
+### <span style="color: #b76e5f">Peer reviewed publications</span>
 
 “Labour, Ethics, and the Training Milieu: The Case of AI and Translation Work.” *Global Labour Journal*, 16(2) (May 2025, forthcoming).
 
@@ -37,25 +47,30 @@ Powers of Practice: Michel Foucault and the Politics of Asceticism. <a href="htt
 
 “<a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003126508-6/graffiti-walls-katherine-boydell-vanessa-sinopoli-elaine-stasiulis-brenda-gladstone-kate-tilleczek-alexandra-gibson-william-tilleczek-michael-hodgins" target="_blank">Graffiti Walls: Arts-Based Mental Health Knowledge Translation with Young People in Secondary Schools</a>,” in *Creative Approaches to Health Education: New Ways of Thinking, Making, Doing, Teaching and Learning*. Ed. Deborah Lupton and Deana Leahy. London: Routledge, 2021. (With Katherine Boydell et al.).
 
-### <span style="color: #4169E1">Essays and translations</span>
+### <span style="color: #b76e5f">Essays and translations</span>
 
 “<a href="https://mulpress.mcmaster.ca/globallabour/article/view/5739" target="_blank">Simone Weil’s ‘Rationalisation’: Translated from French & Annotated</a>,” *Global Labour Journal*, 15(1) (January 2024), 64-74.
 
 “<a href="https://mulpress.mcmaster.ca/globallabour/article/view/5738" target="_blank">Human Being, Working Body, Working Day</a>,” *Global Labour Journal*, 15(1) (January 2024), 58-63.
 
-### <span style="color: #4169E1">Book reviews</span>
+### <span style="color: #b76e5f">Book reviews</span>
 
 “<a href="https://rauli.cbs.dk/index.php/foucault-studies/article/view/6935" target="_blank">(Review of) Mark Coeckelbergh, *Self-Improvement: Technologies of the Soul in the Age of Artificial Intelligence*</a>.” *Journal of Foucault Studies,* No. 34 (2023): 52-56.
 
 “<a href="https://rauli.cbs.dk/index.php/foucault-studies/article/view/6708" target="_blank">(Review of) Niki Kasumi Clements, *Sites of the Ascetic Self: John Cassian and Christian Ethical Formation*</a>.” *Journal of Foucault Studies*, No. 32 (2022): 388-391.
 
 
-<span style="color: #7393B3">(Please <a href="contact.qmd" target="_blank">email me</a> if you would like a PDF of any of the above for personal research use)</span>
+```{=html}
+<p class="text-center">
+  <a class="btn btn-secondary btn-sm btn-block" href="contact.qmd" target="_blank">
+    </i>&ensp;Please email me if you would like a PDF of any of the above for personal research use
+  </a>
+```
 
 ## **Current projects**
 ---
 
-### <span style="color: #4169E1">Articles under review</span>
+### <span style="color: #b76e5f">Articles under review</span>
 
 I currently have works under review on the following themes:
 
