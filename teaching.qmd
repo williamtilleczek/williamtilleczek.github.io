@@ -13,7 +13,7 @@ I take pride in challenging students to move beyond their limitations, while giv
 POL2090: *Pensée politique prémoderne* \[Premodern Political Thought: Cities and Stories in the Global Mediterranean\] (L'Université de Montréal), Winter 2025.
 ```{=html}
 <p class="text-left">
-  <a class="btn btn-info btn-sm" href="https://pol.umontreal.ca/public/FAS/science_politique/Documents/1-PROGRAMMES_ET_COURS/Cours_et_horaires/Hiver_2025/POL2090_H25_Tilleczek.pdf" target="_blank">
+  <a class="btn btn-secondary btn-sm" href="https://pol.umontreal.ca/public/FAS/science_politique/Documents/1-PROGRAMMES_ET_COURS/Cours_et_horaires/Hiver_2025/POL2090_H25_Tilleczek.pdf" target="_blank">
     </i>&ensp;Info here
   </a>
 ```
