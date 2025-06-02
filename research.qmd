@@ -35,7 +35,7 @@ Powers of Practice: Michel Foucault and the Politics of Asceticism <a href="http
 ```
 ### [Peer reviewed publications]{style="color: #b76e5f"}
 
-“Labour, Ethics, and the Training Milieu: The Case of AI and Translation Work.” *Global Labour Journal*, 16(2) (May 2025, forthcoming).
+“<a href="https://mulpress.mcmaster.ca/globallabour/article/view/5861" target="_blank">Practice or Product? Labour, Training, and the "Ethics" of AI</a>.” *Global Labour Journal*, 16(2) (May 2025), 125-140.
 
 “<a href="https://brill.com/view/journals/jph/18/3/article-p365_6.xml?rskey=qPuq6p&result=18" target="_blank">Training the Philosopher King: Ancient Models of Political Action in Hannah Arendt and Michel Foucault</a>.” *Journal of the Philosophy of History*, 18(3) (November 2024), 365-391.
 
