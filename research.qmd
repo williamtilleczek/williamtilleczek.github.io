@@ -2,6 +2,80 @@
 title: "WRITING"
 about: 
   template: marquee
+format: 
+      html:
+        include-in-header: 
+          - text: |
+              <style>
+                a {
+                  color: #000000; /* Black for all links */
+                }
+              </style>
+---
+
+## **Publications**
+---
+
+### Book (in progress)
+
+The City and Self-Transformation: Michel Foucault and the Politics of Asceticism
+
+### Dissertation
+
+Powers of Practice: Michel Foucault and the Politics of Asceticism\
+(<a href="https://dash.harvard.edu/handle/1/37373683" target="_blank">Available here</a>\ | <a href="https://politicalsciencenow.com/william-tilleczek-receives-the-2024-leo-strauss-award-for-powers-of-practice-michel-foucault-and-the-politics-of-asceticism/" target="_blank">Recipient of the APSA Leo Strauss Award</a>)
+
+### Peer-reviewed journal articles
+
+“The Asceticism of the Oppressed: Anticolonial Ethics and the Politics of Collective Self-Transformation” (Co-authored with Dimitri M’Bama). *Political Theory* (Forthcoming, 2026).
+
+“Excessive Attachments: Racial Capitalism and the Failure of the Left in the Age of Neoliberalism,” *Critical International Review of Social and Political Philosophy* (Forthcoming 2025).
+
+“Practice or Product? Labour, Training, and the Ethics of AI.” *Global Labour Journal*, 16(2) (May 2025), 125-140. <a href="https://mulpress.mcmaster.ca/globallabour/article/view/5861" target="_blank">(Available here)</a>
+
+“Training the Philosopher King: Ancient Models of Political Action in Hannah Arendt and Michel Foucault.” *Journal of the Philosophy of History*, 18(3) (November 2024), 365-391. <a href="https://brill.com/view/journals/jph/18/3/article-p365_6.xml?rskey=qPuq6p&result=18" target="_blank">(Available here)</a>
+
+“Between Authority and Care: Plato’s *Crito* as Defense of the Philosophical Life.” *Dionysius,* 39 (July 2024), 97-129. <a href="https://ojs.library.dal.ca/dionysius/article/view/12200" target="_blank">(Available here)</a>
+
+“On the Ownership of the Means of Training: Domination, Asceticism, and Capacities of Resistance.” *Theory & Event,* 26(4) (October 2023), 701-726. <a href="https://muse.jhu.edu/pub/1/article/909213" target="_blank">(Available here)</a>
+
+### Peer-reviewed book chapters
+
+“The Aristotelean Ethic and the Spirit of Neoliberalism: *Askesis* and Capitalism Today,” in *Mythogenesis, Interdiscursivity, Ritual.* Ed. Burkhard Fehr and Panagiotis Roilos (Leiden/Boston: Brill, August 2024), 430-456. <a href="https://brill.com/edcollchap/book/9789004679740/BP000028.xml" target="_blank">(Available here)</a>
+
+“Graffiti Walls: Arts-Based Mental Health Knowledge Translation with Young People in Secondary Schools,” in *Creative Approaches to Health Education: New Ways of Thinking, Making, Doing, Teaching and Learning*. Ed. Deborah Lupton and Deana Leahy. London: Routledge, 2021. (With Katherine Boydell et al.). <a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003126508-6/graffiti-walls-katherine-boydell-vanessa-sinopoli-elaine-stasiulis-brenda-gladstone-kate-tilleczek-alexandra-gibson-william-tilleczek-michael-hodgins" target="_blank">(Available here)</a>
+
+### Translations, reviews, essays
+
+“Simone Weil’s ‘Rationalisation’: Translated from French & Annotated,” *Global Labour Journal*, 15(1) (January 2024), 64-74. <a href="https://mulpress.mcmaster.ca/globallabour/article/view/5739" target="_blank">(Available here)</a>
+
+“Human Being, Working Body, Working Day,” *Global Labour Journal*, 15(1) (January 2024), 58-63. <a href="https://mulpress.mcmaster.ca/globallabour/article/view/5738" target="_blank">(Available here)</a>
+
+“(Review of) Mark Coeckelbergh, *Self-Improvement: Technologies of the Soul in the Age of Artificial Intelligence*.” *Journal of Foucault Studies,* No. 34 (2023): 52-56. <a href="https://rauli.cbs.dk/index.php/foucault-studies/article/view/6935" target="_blank">(Available here)</a>
+
+“(Review of) Niki Kasumi Clements, *Sites of the Ascetic Self: John Cassian and Christian Ethical Formation*.” *Journal of Foucault Studies*, No. 32 (2022): 388-391. <a href="https://rauli.cbs.dk/index.php/foucault-studies/article/view/6708" target="_blank">(Available here)</a>
+
+
+
+```{=html}
+<p class="text-center">
+  <a class="btn btn-secondary btn-sm" href="contact.qmd" target="_blank">
+    </i>&ensp;Please email me if you would like a PDF of any of the above for personal research use
+  </a>
+```
+
+## **Working papers/projects**
+---
+
+I currently have works in progress on the following themes:
+
+1.  “Asceticism in Indian Anticolonial Activism: Charisma, Capacity, Gender” (Article in progress; first version presented APSA 2025)
+
+2.  Lettres d’un ascète [Ascetic Epistles: Letters 1-100 of Isidore of Pelusium], first modern-language translation of the Ancient Greek (with Christian Raschle; In progress, anticipated completion of manuscript May 2026)
+
+These works serve as first studies towards a second book project that is tentatively entitled: *A Comparative History of Political Asceticisms*.
+
+## **Research program**
 ---
 
 Generally, my research asks the question: Can transforming the self transform the world? I answer yes, but only if we think of self-transformation – or ‘askesis’ – as something more than an isolated, individual project whose political import, if it has one, starts and ends with the hope that many individual self-transformations will amount to a broader world-transformation.
@@ -9,73 +83,3 @@ Generally, my research asks the question: Can transforming the self transform th
 I aim to develop a sufficiently nuanced theory of what self-transformation has entailed and could entail in its political valences.  Properly understood, effective asceticism is always a collective undertaking in constant dialectical relation with broad economic and political structures/strategies and local, concrete institutions.
 
 The title that I give to my general research agenda is "global political asceticisms."  I undertake the global, contextual, and comparative study of organized systems for the training and modification of bodily and mental capacities.  Most recently, I have been exploring Gandhi’s ascetic activism and the ashram as an "ascetic technology" for the generation of anticolonial and anticapitalist political agency.  
-
-## **Publications**
----
-
-### [Book (in progress)]{style="color: #b76e5f"}
-
-The City and Self-Transformation: Michel Foucault and the Death of Politics\
-
-```{=html}
-<p class="text-left">
-  <a class="btn btn-secondary btn-sm" href="https://www.mcgill.ca/lin-centre/channels/event/rgcs-william-tilleczek-book-manuscript-workshop-360190" target="_blank">
-    </i>&ensp;Book manuscript workshop info
-  </a>
-```
-### [Dissertation]{style="color: #b76e5f"}
-
-Powers of Practice: Michel Foucault and the Politics of Asceticism <a href="https://dash.harvard.edu/handle/1/37373683" target="_blank">(Available here)</a>\
-
-```{=html}
-<p class="text-left">
-  <a class="btn btn-secondary btn-sm" href="https://politicalsciencenow.com/william-tilleczek-receives-the-2024-leo-strauss-award-for-powers-of-practice-michel-foucault-and-the-politics-of-asceticism/" target="_blank">
-    </i>&ensp;Recipient of the APSA Leo Strauss Award
-  </a>
-```
-### [Peer reviewed publications]{style="color: #b76e5f"}
-
-“<a href="https://mulpress.mcmaster.ca/globallabour/article/view/5861" target="_blank">Practice or Product? Labour, Training, and the Ethics of AI</a>.” *Global Labour Journal*, 16(2) (May 2025), 125-140.
-
-“<a href="https://brill.com/view/journals/jph/18/3/article-p365_6.xml?rskey=qPuq6p&result=18" target="_blank">Training the Philosopher King: Ancient Models of Political Action in Hannah Arendt and Michel Foucault</a>.” *Journal of the Philosophy of History*, 18(3) (November 2024), 365-391.
-
-“<a href="https://brill.com/edcollchap/book/9789004679740/BP000028.xml" target="_blank">The Aristotelean Ethic and the Spirit of Neoliberalism: *Askesis* and Capitalism Today</a>,” in *Mythogenesis, Interdiscursivity, Ritual.* Ed. Burkhard Fehr and Panagiotis Roilos (Leiden/Boston: Brill, August 2024), 430-456.
-
-“<a href="https://ojs.library.dal.ca/dionysius/article/view/12200" target="_blank">Between Authority and Care: Plato’s *Crito* as Defense of the Philosophical Life</a>.” *Dionysius,* 39 (July 2024), 97-129.
-
-“<a href="https://muse.jhu.edu/pub/1/article/909213" target="_blank">On the Ownership of the Means of Training: Domination, Asceticism, and Capacities of Resistance</a>.” *Theory & Event,* 26(4) (October 2023), 701-726.
-
-“<a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003126508-6/graffiti-walls-katherine-boydell-vanessa-sinopoli-elaine-stasiulis-brenda-gladstone-kate-tilleczek-alexandra-gibson-william-tilleczek-michael-hodgins" target="_blank">Graffiti Walls: Arts-Based Mental Health Knowledge Translation with Young People in Secondary Schools</a>,” in *Creative Approaches to Health Education: New Ways of Thinking, Making, Doing, Teaching and Learning*. Ed. Deborah Lupton and Deana Leahy. London: Routledge, 2021. (With Katherine Boydell et al.).
-
-### [Essays and translations]{style="color: #b76e5f"}
-
-“<a href="https://mulpress.mcmaster.ca/globallabour/article/view/5739" target="_blank">Simone Weil’s ‘Rationalisation’: Translated from French & Annotated</a>,” *Global Labour Journal*, 15(1) (January 2024), 64-74.
-
-“<a href="https://mulpress.mcmaster.ca/globallabour/article/view/5738" target="_blank">Human Being, Working Body, Working Day</a>,” *Global Labour Journal*, 15(1) (January 2024), 58-63.
-
-### [Book reviews]{style="color: #b76e5f"}
-
-“<a href="https://rauli.cbs.dk/index.php/foucault-studies/article/view/6935" target="_blank">(Review of) Mark Coeckelbergh, *Self-Improvement: Technologies of the Soul in the Age of Artificial Intelligence*</a>.” *Journal of Foucault Studies,* No. 34 (2023): 52-56.
-
-“<a href="https://rauli.cbs.dk/index.php/foucault-studies/article/view/6708" target="_blank">(Review of) Niki Kasumi Clements, *Sites of the Ascetic Self: John Cassian and Christian Ethical Formation*</a>.” *Journal of Foucault Studies*, No. 32 (2022): 388-391.
-
-```{=html}
-<p class="text-center">
-  <a class="btn btn-secondary btn-sm btn-block" href="contact.qmd" target="_blank">
-    </i>&ensp;Please email me if you would like a PDF of any of the above for personal research use
-  </a>
-```
-## **Current projects**
----
-
-### [Articles under review]{style="color: #b76e5f"}
-
-I currently have works under review on the following themes:
-
-1.  Anticolonial ethics of self-cultivation and asceticism as anticolonial practice in thinkers such as Gandhi and Frederick Douglass (co-authored with Dimitri M’Bama)
-
-2.  Inés Valdez’ work on racial capitalism, migration, and the failure of the left to meet the challenges of contemporary emancipatory democracy
-
-3.  A historical survey of the moralization of wealth and poverty in the ancient world
-
-These works serve as first studies towards a second book project that is tentatively entitled: *A Comparative History of Political Asceticisms*.

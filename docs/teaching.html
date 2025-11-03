@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.549">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -44,7 +44,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -53,6 +59,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -67,6 +74,11 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-YPLPB5BV32', { 'anonymize_ip': true});
 </script>
+<style>
+  a {
+    color: #000000; /* Black for all links */
+  }
+</style>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -76,9 +88,9 @@ gtag('config', 'G-YPLPB5BV32', { 'anonymize_ip': true});
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">WILLIAM TILLECZEK</span>
     </a>
@@ -90,33 +102,33 @@ gtag('config', 'G-YPLPB5BV32', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">HOME</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">HOME</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
- <span class="menu-text">ABOUT</span></a>
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">ABOUT</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html" rel="" target="">
- <span class="menu-text">WRITING</span></a>
+    <a class="nav-link" href="./research.html"> 
+<span class="menu-text">WRITING</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./teaching.html" rel="" target="" aria-current="page">
- <span class="menu-text">TEACHING</span></a>
+    <a class="nav-link active" href="./teaching.html" aria-current="page"> 
+<span class="menu-text">TEACHING</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv/index.html" rel="" target="">
- <span class="menu-text">CV</span></a>
+    <a class="nav-link" href="./cv/index.html"> 
+<span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.html" rel="" target="">
- <span class="menu-text">CONTACT</span></a>
+    <a class="nav-link" href="./contact.html"> 
+<span class="menu-text">CONTACT</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools ms-auto">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -128,14 +140,14 @@ gtag('config', 'G-YPLPB5BV32', { 'anonymize_ip': true});
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
   <ul>
-  <li><a href="#luniversité-de-montréal" id="toc-luniversité-de-montréal" class="nav-link active" data-scroll-target="#luniversité-de-montréal"><strong>L’Université de Montréal</strong></a></li>
-  <li><a href="#deep-springs-college" id="toc-deep-springs-college" class="nav-link" data-scroll-target="#deep-springs-college"><strong>Deep Springs College</strong></a></li>
-  <li><a href="#harvard-university" id="toc-harvard-university" class="nav-link" data-scroll-target="#harvard-university"><strong>Harvard University</strong></a></li>
+  <li><a href="#luniversité-de-montréal-instructor-of-record" id="toc-luniversité-de-montréal-instructor-of-record" class="nav-link active" data-scroll-target="#luniversité-de-montréal-instructor-of-record"><strong>L’Université de Montréal (Instructor of Record)</strong></a></li>
+  <li><a href="#deep-springs-college-instructor-of-record" id="toc-deep-springs-college-instructor-of-record" class="nav-link" data-scroll-target="#deep-springs-college-instructor-of-record"><strong>Deep Springs College (Instructor of Record)</strong></a></li>
+  <li><a href="#harvard-university-teaching-fellow-for-professor-michael-sandel" id="toc-harvard-university-teaching-fellow-for-professor-michael-sandel" class="nav-link" data-scroll-target="#harvard-university-teaching-fellow-for-professor-michael-sandel"><strong>Harvard University (Teaching Fellow for Professor Michael Sandel)</strong></a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<div class="quarto-about-marquee">
+<div class="quarto-about-marquee content">
   <div class="about-image-container">
   </div>
   <div class="about-contents">
@@ -147,26 +159,27 @@ gtag('config', 'G-YPLPB5BV32', { 'anonymize_ip': true});
   </div>
 </header> <main class="content" id="quarto-document-content">
 
-<p>Below you will find a list of courses taught, including the course description.&nbsp;I am currently preparing a course on premodern political theory to be taught at the University of Montreal in Winter 2025. At Deep Springs College, I designed and taught seminars as a visiting professor.&nbsp; Previously, I had the chance to teach four times for Prof.&nbsp;Michael Sandel at Harvard where, as a teaching fellow, I guided discussion sections and provided short supplementary lectures.</p>
 <p>I take pride in challenging students to move beyond their limitations, while giving them the support they need to do so, all in an environment of mutual respect and collaboration.&nbsp; One of my students stated my goal better than I could: “a subtle but ever-present mixture of high respect for his students in our current form and deep faith in their ability to improve/elevate our thinking.”</p>
-<section id="luniversité-de-montréal" class="level2">
-<h2 data-anchor-id="luniversité-de-montréal"><strong>L’Université de Montréal</strong></h2>
-<p>POL2090: <em>Pensée politique prémoderne</em> [Premodern Political Thought: Cities and Stories in the Global Mediterranean] (L’Université de Montréal), Winter 2025.</p>
+<section id="luniversité-de-montréal-instructor-of-record" class="level3">
+<h3 data-anchor-id="luniversité-de-montréal-instructor-of-record"><strong>L’Université de Montréal (Instructor of Record)</strong></h3>
+<p>POL2090: <em>Pensée politique prémoderne</em> [Premodern Political Thought: Cities and Stories in the Global Mediterranean] (L’Université de Montréal), Winter 2025 and Winter 2026.</p>
 <p class="text-left">
   <a class="btn btn-secondary btn-sm" href="https://pol.umontreal.ca/public/FAS/science_politique/Documents/1-PROGRAMMES_ET_COURS/Cours_et_horaires/Hiver_2025/POL2090_H25_Tilleczek.pdf" target="_blank">
-     Info here
+     Syllabus here
   </a>
-</p><p><u>Description</u>: As its title implies, this course offers an introduction to ancient political thought - primarily from the Mediterranean and India - with attention to the global context of early human civilizations.&nbsp; As its subtitle implies, this course will be guided by three major themes: <em>Souls</em>, or the question of ethics and the good life; <em>Cities</em>, or the <em>polis</em> and the question of the political organization of human communities; and <em>Stories</em>, or the question of the kinds of things we can say and know about politics, and the language in which people have conveyed this knowledge.&nbsp; We will pay particular attention to the close connection of the ‘personal’ and the ‘political’ in ancient thought: politics means not only the exercise of power, but the connection between the political regime and the types of people who create it and who are, in turn, created by it.&nbsp; Attempting as much as possible to shed contemporary disciplinary boundaries, we will see how the political was thought and enacted in domains as diverse as treatises, plays, epic poems, or simply in the daily life of political actors as reported and preserved by ancient biographers.&nbsp; Why study political thought thousands of years removed from our contemporary reality?&nbsp; This is a fair question to which I hope all students will be able to provide <em>their own answer</em> by the end of the course.&nbsp; But for all of those who wonder about historical variations in the idea of democracy, the injustice of slavery, the role of story-telling and history in identity-formation, the place of the individual within the nation, the long history of global contacts and imperial violence, the politics of the Self and the Other, or the liberatory role of education, the “modernity” of these ancient texts will quickly become apparent… &nbsp;Please note that the readings in this course will be mostly (but not exclusively) chronologically presented, and will necessarily be lacunary, as we will cover approximately 1500 years of history in one semester.</p>
-</section>
-<section id="deep-springs-college" class="level2">
-<h2 data-anchor-id="deep-springs-college"><strong>Deep Springs College</strong></h2>
+</p><p>Pol 2050: Représentation politique [Political representation] (L’Université de Montréal), Fall 2025</p>
+<p class="text-left">
+  <a class="btn btn-secondary btn-sm" href="https://pol.umontreal.ca/public/FAS/science_politique/Documents/1-PROGRAMMES_ET_COURS/Cours_et_horaires/Automne_2025/POL2050_Tilleczek.pdf" target="_blank">
+     Syllabus here
+  </a>
+</p></section>
+<section id="deep-springs-college-instructor-of-record" class="level3">
+<h3 data-anchor-id="deep-springs-college-instructor-of-record"><strong>Deep Springs College (Instructor of Record)</strong></h3>
 <p>SOC204: <em>Hannah Arendt and Simone Weil: Work and Politics</em> (Deep Springs College), Winter 2023.</p>
-<p><u>Description</u>: This class brings together two contemporary philosophers and social critics, Simone Weil (1909-1943) and Hannah Arendt (1906-1975), both of whom abhorred the totalitarianisms of their time, reflected on the possibilities of a post-Marxist politics, and theorized the meaning of labour in human life.&nbsp; Weil, a French mystic, ascetic, activist, and philosopher, was deeply dedicated to understanding working-class life and violence in its many forms.&nbsp; Arendt, a German-born philosopher (or rather, as she herself preferred, <em>political theorist</em>), wrote much of her work in the United States during and after the Second World War and offered a wealth of theoretical tools to understand human labour and work as well as freedom and political action.&nbsp; Our goal will be a “lecture croisée” of these two <em>oeuvres</em> oriented around two major thematics: (1) Forms of human activity and their relation to political life; (2) Marxism and its major nodal points of revolution and freedom.&nbsp; Along the way we will also think about ancient Greece, the tradition of political thought, colonial violence, and our own neoliberal economic reality.&nbsp; Readings are a combination of major works from each author (<em>The Need for Roots</em> and <em>The Human Condition</em>), essays and occasional pieces (e.g.&nbsp;“The Iliad, or the Poem of Force” and “Revolution and Freedom”), as well as contextualizing readings from theorists who inspired or were inspired by Weil and Arendt (Karl Marx, Frantz Fanon, Albert Camus, Danielle Allen).</p>
 <p>HUM010: <em>Introduction to Ancient Greek Language &amp; Literature</em> (Deep Springs College), Winter 2023.</p>
-<p><u>Description</u>: This course is intended for students who have completed their initial study of Greek grammar (e.g.&nbsp;by completing an introductory course sequence) and who have some experience reading original (viz., un-adapted) Greek prose.&nbsp; The transition from textbook study to the engagement with real Greek authors can be a difficult one, and this course aims to facilitate this transition by combining continued reading of a complete Greek text with a rapid but comprehensive review of Attic Greek morpho-syntax.&nbsp; Our primary goal is to read Plato’s <em>Gorgias</em> in its entirety, in order to become familiar with idiomatic Greek and to expand our vocabulary through repeated exposure to Plato’s prose.&nbsp; Our secondary goal is to revisit challenging elements of Greek grammar through a review of Louise Pratt’s <em>The Essentials of Greek Grammar</em> as well as via ad-hoc review of difficult points that arise during our reading.&nbsp; Class will consist primarily of the close reading of Plato’s text, a specific section of which will be assigned in advance of each class.&nbsp; Students are expected to work through this text in advance (e.g.&nbsp;look up and record all unknown vocabulary, decipher any challenging syntactic constructions), and be prepared to translate the text with the help of their notes – but without a prepared translation – ‘live’ in class.&nbsp; We will always read the Greek out loud before translating to gain familiarity with the sounds and the rhythm of the language.&nbsp; While our main goal is to improve our Greek reading fluency, we will take time to discuss Plato’s views on rhetoric, ethics, and politics as raised in this fascinating Socratic dialogue.&nbsp;</p>
 </section>
-<section id="harvard-university" class="level2">
-<h2 data-anchor-id="harvard-university"><strong>Harvard University</strong></h2>
+<section id="harvard-university-teaching-fellow-for-professor-michael-sandel" class="level3">
+<h3 data-anchor-id="harvard-university-teaching-fellow-for-professor-michael-sandel"><strong>Harvard University (Teaching Fellow for Professor Michael Sandel)</strong></h3>
 <p>GENED 1181: <em>Meritocracy and its Critics</em>, (Harvard University), Fall 2022.</p>
 <p>GENED 1171: <em>Justice: Ethics in an Age of Pandemic and Racial Reckoning</em> (Harvard University), Fall 2020 (Assistant Head Teaching Fellow).</p>
 <p>GOVT E-1045: <em>Justice</em> (Harvard Extension School), Spring 2019</p>
@@ -250,10 +263,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -263,8 +275,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -277,6 +298,125 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -320,6 +460,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -345,6 +486,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -407,14 +574,19 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left"><span style="color: #FFFFFF">© 2024 William Tilleczek</span></div>   
+    <div class="nav-footer-left">
+<p><span style="color: #FFFFFF">© 2024 William Tilleczek</span></p>
+</div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
-    <div class="nav-footer-right">Made with <a href="https://quarto.org" target="_blank">Quarto</a><br>
-<span style="color: #b76e5f">Last modified: May 2025</span></div>
+    <div class="nav-footer-right">
+<p>Made with <a href="https://quarto.org" target="_blank">Quarto</a><br>
+<span style="color: #B2BEB5">Last modified: November 2025</span></p>
+</div>
   </div>
 </footer>
+
 
 
 

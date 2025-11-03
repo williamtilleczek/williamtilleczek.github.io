@@ -2,14 +2,22 @@
 title: "CONTACT"
 about: 
   template: marquee
+format: 
+      html:
+        include-in-header: 
+          - text: |
+              <style>
+                a {
+                  color: #000000; /* Black for all links */
+                }
+              </style>
 ---
 
 **William Tilleczek**
 
-[william.tilleczek\@mail.mcgill.ca](mailto:william.tilleczek@mail.mcgill.ca)
+[william.tilleczek[at]umontreal.ca](mailto:william.tilleczek@umontreal.ca)
 
 **Department of Political Science**\
-McGill University\
-Leacock Building, 4th Floor\
-855 Sherbrooke Street West\
-Montreal, Quebec, H3A 2T7
+University of Montreal\
+3150 Rue Jean-Brillant\
+Montreal, Quebec, H3T 1P1

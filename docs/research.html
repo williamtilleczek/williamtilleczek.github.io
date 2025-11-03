@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.549">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -44,7 +44,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -53,6 +59,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -67,6 +74,11 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-YPLPB5BV32', { 'anonymize_ip': true});
 </script>
+<style>
+  a {
+    color: #000000; /* Black for all links */
+  }
+</style>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -76,9 +88,9 @@ gtag('config', 'G-YPLPB5BV32', { 'anonymize_ip': true});
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">WILLIAM TILLECZEK</span>
     </a>
@@ -90,33 +102,33 @@ gtag('config', 'G-YPLPB5BV32', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">HOME</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">HOME</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
- <span class="menu-text">ABOUT</span></a>
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">ABOUT</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./research.html" rel="" target="" aria-current="page">
- <span class="menu-text">WRITING</span></a>
+    <a class="nav-link active" href="./research.html" aria-current="page"> 
+<span class="menu-text">WRITING</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html" rel="" target="">
- <span class="menu-text">TEACHING</span></a>
+    <a class="nav-link" href="./teaching.html"> 
+<span class="menu-text">TEACHING</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv/index.html" rel="" target="">
- <span class="menu-text">CV</span></a>
+    <a class="nav-link" href="./cv/index.html"> 
+<span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.html" rel="" target="">
- <span class="menu-text">CONTACT</span></a>
+    <a class="nav-link" href="./contact.html"> 
+<span class="menu-text">CONTACT</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools ms-auto">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -130,21 +142,19 @@ gtag('config', 'G-YPLPB5BV32', { 'anonymize_ip': true});
   <ul>
   <li><a href="#publications" id="toc-publications" class="nav-link active" data-scroll-target="#publications"><strong>Publications</strong></a>
   <ul class="collapse">
-  <li><a href="#book-in-progress" id="toc-book-in-progress" class="nav-link" data-scroll-target="#book-in-progress"><span style="color: #b76e5f">Book (in progress)</span></a></li>
-  <li><a href="#dissertation" id="toc-dissertation" class="nav-link" data-scroll-target="#dissertation"><span style="color: #b76e5f">Dissertation</span></a></li>
-  <li><a href="#peer-reviewed-publications" id="toc-peer-reviewed-publications" class="nav-link" data-scroll-target="#peer-reviewed-publications"><span style="color: #b76e5f">Peer reviewed publications</span></a></li>
-  <li><a href="#essays-and-translations" id="toc-essays-and-translations" class="nav-link" data-scroll-target="#essays-and-translations"><span style="color: #b76e5f">Essays and translations</span></a></li>
-  <li><a href="#book-reviews" id="toc-book-reviews" class="nav-link" data-scroll-target="#book-reviews"><span style="color: #b76e5f">Book reviews</span></a></li>
+  <li><a href="#book-in-progress" id="toc-book-in-progress" class="nav-link" data-scroll-target="#book-in-progress">Book (in progress)</a></li>
+  <li><a href="#dissertation" id="toc-dissertation" class="nav-link" data-scroll-target="#dissertation">Dissertation</a></li>
+  <li><a href="#peer-reviewed-journal-articles" id="toc-peer-reviewed-journal-articles" class="nav-link" data-scroll-target="#peer-reviewed-journal-articles">Peer-reviewed journal articles</a></li>
+  <li><a href="#peer-reviewed-book-chapters" id="toc-peer-reviewed-book-chapters" class="nav-link" data-scroll-target="#peer-reviewed-book-chapters">Peer-reviewed book chapters</a></li>
+  <li><a href="#translations-reviews-essays" id="toc-translations-reviews-essays" class="nav-link" data-scroll-target="#translations-reviews-essays">Translations, reviews, essays</a></li>
   </ul></li>
-  <li><a href="#current-projects" id="toc-current-projects" class="nav-link" data-scroll-target="#current-projects"><strong>Current projects</strong></a>
-  <ul class="collapse">
-  <li><a href="#articles-under-review" id="toc-articles-under-review" class="nav-link" data-scroll-target="#articles-under-review"><span style="color: #b76e5f">Articles under review</span></a></li>
-  </ul></li>
+  <li><a href="#working-papersprojects" id="toc-working-papersprojects" class="nav-link" data-scroll-target="#working-papersprojects"><strong>Working papers/projects</strong></a></li>
+  <li><a href="#research-program" id="toc-research-program" class="nav-link" data-scroll-target="#research-program"><strong>Research program</strong></a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<div class="quarto-about-marquee">
+<div class="quarto-about-marquee content">
   <div class="about-image-container">
   </div>
   <div class="about-contents">
@@ -156,69 +166,62 @@ gtag('config', 'G-YPLPB5BV32', { 'anonymize_ip': true});
   </div>
 </header> <main class="content" id="quarto-document-content">
 
-<p>Generally, my research asks the question: Can transforming the self transform the world? I answer yes, but only if we think of self-transformation – or ‘askesis’ – as something more than an isolated, individual project whose political import, if it has one, starts and ends with the hope that many individual self-transformations will amount to a broader world-transformation.</p>
-<p>I aim to develop a sufficiently nuanced theory of what self-transformation has entailed and could entail in its political valences.&nbsp; Properly understood, effective asceticism is always a collective undertaking in constant dialectical relation with broad economic and political structures/strategies and local, concrete institutions.</p>
-<p>The title that I give to my general research agenda is “global political asceticisms.”&nbsp; I undertake the global, contextual, and comparative study of organized systems for the training and modification of bodily and mental capacities.&nbsp; Most recently, I have been exploring Gandhi’s ascetic activism and the ashram as an “ascetic technology” for the generation of anticolonial and anticapitalist political agency. &nbsp;</p>
 <section id="publications" class="level2">
 <h2 data-anchor-id="publications"><strong>Publications</strong></h2>
 <hr>
 <section id="book-in-progress" class="level3">
-<h3 data-anchor-id="book-in-progress"><span style="color: #b76e5f">Book (in progress)</span></h3>
-<p>The City and Self-Transformation: Michel Foucault and the Death of Politics<br>
-</p>
-<p class="text-left">
-  <a class="btn btn-secondary btn-sm" href="https://www.mcgill.ca/lin-centre/channels/event/rgcs-william-tilleczek-book-manuscript-workshop-360190" target="_blank">
-     Book manuscript workshop info
-  </a>
-</p></section>
+<h3 data-anchor-id="book-in-progress">Book (in progress)</h3>
+<p>The City and Self-Transformation: Michel Foucault and the Politics of Asceticism</p>
+</section>
 <section id="dissertation" class="level3">
-<h3 data-anchor-id="dissertation"><span style="color: #b76e5f">Dissertation</span></h3>
-<p>Powers of Practice: Michel Foucault and the Politics of Asceticism <a href="https://dash.harvard.edu/handle/1/37373683" target="_blank">(Available here)</a><br>
-</p>
-<p class="text-left">
-  <a class="btn btn-secondary btn-sm" href="https://politicalsciencenow.com/william-tilleczek-receives-the-2024-leo-strauss-award-for-powers-of-practice-michel-foucault-and-the-politics-of-asceticism/" target="_blank">
-     Recipient of the APSA Leo Strauss Award
-  </a>
-</p></section>
-<section id="peer-reviewed-publications" class="level3">
-<h3 data-anchor-id="peer-reviewed-publications"><span style="color: #b76e5f">Peer reviewed publications</span></h3>
-<p>“<a href="https://mulpress.mcmaster.ca/globallabour/article/view/5861" target="_blank">Practice or Product? Labour, Training, and the Ethics of AI</a>.” <em>Global Labour Journal</em>, 16(2) (May 2025), 125-140.</p>
-<p>“<a href="https://brill.com/view/journals/jph/18/3/article-p365_6.xml?rskey=qPuq6p&amp;result=18" target="_blank">Training the Philosopher King: Ancient Models of Political Action in Hannah Arendt and Michel Foucault</a>.” <em>Journal of the Philosophy of History</em>, 18(3) (November 2024), 365-391.</p>
-<p>“<a href="https://brill.com/edcollchap/book/9789004679740/BP000028.xml" target="_blank">The Aristotelean Ethic and the Spirit of Neoliberalism: <em>Askesis</em> and Capitalism Today</a>,” in <em>Mythogenesis, Interdiscursivity, Ritual.</em> Ed. Burkhard Fehr and Panagiotis Roilos (Leiden/Boston: Brill, August 2024), 430-456.</p>
-<p>“<a href="https://ojs.library.dal.ca/dionysius/article/view/12200" target="_blank">Between Authority and Care: Plato’s <em>Crito</em> as Defense of the Philosophical Life</a>.” <em>Dionysius,</em> 39 (July 2024), 97-129.</p>
-<p>“<a href="https://muse.jhu.edu/pub/1/article/909213" target="_blank">On the Ownership of the Means of Training: Domination, Asceticism, and Capacities of Resistance</a>.” <em>Theory &amp; Event,</em> 26(4) (October 2023), 701-726.</p>
-<p>“<a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003126508-6/graffiti-walls-katherine-boydell-vanessa-sinopoli-elaine-stasiulis-brenda-gladstone-kate-tilleczek-alexandra-gibson-william-tilleczek-michael-hodgins" target="_blank">Graffiti Walls: Arts-Based Mental Health Knowledge Translation with Young People in Secondary Schools</a>,” in <em>Creative Approaches to Health Education: New Ways of Thinking, Making, Doing, Teaching and Learning</em>. Ed. Deborah Lupton and Deana Leahy. London: Routledge, 2021. (With Katherine Boydell et al.).</p>
+<h3 data-anchor-id="dissertation">Dissertation</h3>
+<p>Powers of Practice: Michel Foucault and the Politics of Asceticism<br>
+(<a href="https://dash.harvard.edu/handle/1/37373683" target="_blank">Available here</a>&nbsp;| <a href="https://politicalsciencenow.com/william-tilleczek-receives-the-2024-leo-strauss-award-for-powers-of-practice-michel-foucault-and-the-politics-of-asceticism/" target="_blank">Recipient of the APSA Leo Strauss Award</a>)</p>
 </section>
-<section id="essays-and-translations" class="level3">
-<h3 data-anchor-id="essays-and-translations"><span style="color: #b76e5f">Essays and translations</span></h3>
-<p>“<a href="https://mulpress.mcmaster.ca/globallabour/article/view/5739" target="_blank">Simone Weil’s ‘Rationalisation’: Translated from French &amp; Annotated</a>,” <em>Global Labour Journal</em>, 15(1) (January 2024), 64-74.</p>
-<p>“<a href="https://mulpress.mcmaster.ca/globallabour/article/view/5738" target="_blank">Human Being, Working Body, Working Day</a>,” <em>Global Labour Journal</em>, 15(1) (January 2024), 58-63.</p>
+<section id="peer-reviewed-journal-articles" class="level3">
+<h3 data-anchor-id="peer-reviewed-journal-articles">Peer-reviewed journal articles</h3>
+<p>“The Asceticism of the Oppressed: Anticolonial Ethics and the Politics of Collective Self-Transformation” (Co-authored with Dimitri M’Bama). <em>Political Theory</em> (Forthcoming, 2026).</p>
+<p>“Excessive Attachments: Racial Capitalism and the Failure of the Left in the Age of Neoliberalism,” <em>Critical International Review of Social and Political Philosophy</em> (Forthcoming 2025).</p>
+<p>“Practice or Product? Labour, Training, and the Ethics of AI.” <em>Global Labour Journal</em>, 16(2) (May 2025), 125-140. <a href="https://mulpress.mcmaster.ca/globallabour/article/view/5861" target="_blank">(Available here)</a></p>
+<p>“Training the Philosopher King: Ancient Models of Political Action in Hannah Arendt and Michel Foucault.” <em>Journal of the Philosophy of History</em>, 18(3) (November 2024), 365-391. <a href="https://brill.com/view/journals/jph/18/3/article-p365_6.xml?rskey=qPuq6p&amp;result=18" target="_blank">(Available here)</a></p>
+<p>“Between Authority and Care: Plato’s <em>Crito</em> as Defense of the Philosophical Life.” <em>Dionysius,</em> 39 (July 2024), 97-129. <a href="https://ojs.library.dal.ca/dionysius/article/view/12200" target="_blank">(Available here)</a></p>
+<p>“On the Ownership of the Means of Training: Domination, Asceticism, and Capacities of Resistance.” <em>Theory &amp; Event,</em> 26(4) (October 2023), 701-726. <a href="https://muse.jhu.edu/pub/1/article/909213" target="_blank">(Available here)</a></p>
 </section>
-<section id="book-reviews" class="level3">
-<h3 data-anchor-id="book-reviews"><span style="color: #b76e5f">Book reviews</span></h3>
-<p>“<a href="https://rauli.cbs.dk/index.php/foucault-studies/article/view/6935" target="_blank">(Review of) Mark Coeckelbergh, <em>Self-Improvement: Technologies of the Soul in the Age of Artificial Intelligence</em></a>.” <em>Journal of Foucault Studies,</em> No.&nbsp;34 (2023): 52-56.</p>
-<p>“<a href="https://rauli.cbs.dk/index.php/foucault-studies/article/view/6708" target="_blank">(Review of) Niki Kasumi Clements, <em>Sites of the Ascetic Self: John Cassian and Christian Ethical Formation</em></a>.” <em>Journal of Foucault Studies</em>, No.&nbsp;32 (2022): 388-391.</p>
+<section id="peer-reviewed-book-chapters" class="level3">
+<h3 data-anchor-id="peer-reviewed-book-chapters">Peer-reviewed book chapters</h3>
+<p>“The Aristotelean Ethic and the Spirit of Neoliberalism: <em>Askesis</em> and Capitalism Today,” in <em>Mythogenesis, Interdiscursivity, Ritual.</em> Ed. Burkhard Fehr and Panagiotis Roilos (Leiden/Boston: Brill, August 2024), 430-456. <a href="https://brill.com/edcollchap/book/9789004679740/BP000028.xml" target="_blank">(Available here)</a></p>
+<p>“Graffiti Walls: Arts-Based Mental Health Knowledge Translation with Young People in Secondary Schools,” in <em>Creative Approaches to Health Education: New Ways of Thinking, Making, Doing, Teaching and Learning</em>. Ed. Deborah Lupton and Deana Leahy. London: Routledge, 2021. (With Katherine Boydell et al.). <a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003126508-6/graffiti-walls-katherine-boydell-vanessa-sinopoli-elaine-stasiulis-brenda-gladstone-kate-tilleczek-alexandra-gibson-william-tilleczek-michael-hodgins" target="_blank">(Available here)</a></p>
+</section>
+<section id="translations-reviews-essays" class="level3">
+<h3 data-anchor-id="translations-reviews-essays">Translations, reviews, essays</h3>
+<p>“Simone Weil’s ‘Rationalisation’: Translated from French &amp; Annotated,” <em>Global Labour Journal</em>, 15(1) (January 2024), 64-74. <a href="https://mulpress.mcmaster.ca/globallabour/article/view/5739" target="_blank">(Available here)</a></p>
+<p>“Human Being, Working Body, Working Day,” <em>Global Labour Journal</em>, 15(1) (January 2024), 58-63. <a href="https://mulpress.mcmaster.ca/globallabour/article/view/5738" target="_blank">(Available here)</a></p>
+<p>“(Review of) Mark Coeckelbergh, <em>Self-Improvement: Technologies of the Soul in the Age of Artificial Intelligence</em>.” <em>Journal of Foucault Studies,</em> No.&nbsp;34 (2023): 52-56. <a href="https://rauli.cbs.dk/index.php/foucault-studies/article/view/6935" target="_blank">(Available here)</a></p>
+<p>“(Review of) Niki Kasumi Clements, <em>Sites of the Ascetic Self: John Cassian and Christian Ethical Formation</em>.” <em>Journal of Foucault Studies</em>, No.&nbsp;32 (2022): 388-391. <a href="https://rauli.cbs.dk/index.php/foucault-studies/article/view/6708" target="_blank">(Available here)</a></p>
 <p class="text-center">
-  <a class="btn btn-secondary btn-sm btn-block" href="./contact.html" target="_blank">
+  <a class="btn btn-secondary btn-sm" href="./contact.html" target="_blank">
      Please email me if you would like a PDF of any of the above for personal research use
   </a>
 </p></section>
 </section>
-<section id="current-projects" class="level2">
-<h2 data-anchor-id="current-projects"><strong>Current projects</strong></h2>
+<section id="working-papersprojects" class="level2">
+<h2 data-anchor-id="working-papersprojects"><strong>Working papers/projects</strong></h2>
 <hr>
-<section id="articles-under-review" class="level3">
-<h3 data-anchor-id="articles-under-review"><span style="color: #b76e5f">Articles under review</span></h3>
-<p>I currently have works under review on the following themes:</p>
+<p>I currently have works in progress on the following themes:</p>
 <ol type="1">
-<li><p>Anticolonial ethics of self-cultivation and asceticism as anticolonial practice in thinkers such as Gandhi and Frederick Douglass (co-authored with Dimitri M’Bama)</p></li>
-<li><p>Inés Valdez’ work on racial capitalism, migration, and the failure of the left to meet the challenges of contemporary emancipatory democracy</p></li>
-<li><p>A historical survey of the moralization of wealth and poverty in the ancient world</p></li>
+<li><p>“Asceticism in Indian Anticolonial Activism: Charisma, Capacity, Gender” (Article in progress; first version presented APSA 2025)</p></li>
+<li><p>Lettres d’un ascète [Ascetic Epistles: Letters 1-100 of Isidore of Pelusium], first modern-language translation of the Ancient Greek (with Christian Raschle; In progress, anticipated completion of manuscript May 2026)</p></li>
 </ol>
 <p>These works serve as first studies towards a second book project that is tentatively entitled: <em>A Comparative History of Political Asceticisms</em>.</p>
-
-
 </section>
+<section id="research-program" class="level2">
+<h2 data-anchor-id="research-program"><strong>Research program</strong></h2>
+<hr>
+<p>Generally, my research asks the question: Can transforming the self transform the world? I answer yes, but only if we think of self-transformation – or ‘askesis’ – as something more than an isolated, individual project whose political import, if it has one, starts and ends with the hope that many individual self-transformations will amount to a broader world-transformation.</p>
+<p>I aim to develop a sufficiently nuanced theory of what self-transformation has entailed and could entail in its political valences.&nbsp; Properly understood, effective asceticism is always a collective undertaking in constant dialectical relation with broad economic and political structures/strategies and local, concrete institutions.</p>
+<p>The title that I give to my general research agenda is “global political asceticisms.”&nbsp; I undertake the global, contextual, and comparative study of organized systems for the training and modification of bodily and mental capacities.&nbsp; Most recently, I have been exploring Gandhi’s ascetic activism and the ashram as an “ascetic technology” for the generation of anticolonial and anticapitalist political agency. &nbsp;</p>
+
+
 </section>
 </main> 
   </div>
@@ -296,10 +299,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -309,8 +311,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -323,6 +334,125 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -366,6 +496,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -391,6 +522,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -453,14 +610,19 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left"><span style="color: #FFFFFF">© 2024 William Tilleczek</span></div>   
+    <div class="nav-footer-left">
+<p><span style="color: #FFFFFF">© 2024 William Tilleczek</span></p>
+</div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
-    <div class="nav-footer-right">Made with <a href="https://quarto.org" target="_blank">Quarto</a><br>
-<span style="color: #b76e5f">Last modified: May 2025</span></div>
+    <div class="nav-footer-right">
+<p>Made with <a href="https://quarto.org" target="_blank">Quarto</a><br>
+<span style="color: #B2BEB5">Last modified: November 2025</span></p>
+</div>
   </div>
 </footer>
+
 
 
 

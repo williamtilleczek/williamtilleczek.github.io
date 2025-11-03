@@ -9,11 +9,11 @@ website:
   page-footer: 
     right: |
       Made with <a href="https://quarto.org" target="_blank">Quarto</a>\
-      <span style="color: #b76e5f">Last modified: May 2025</span>
+      <span style="color: #B2BEB5">Last modified: November 2025</span>
     left: |
       <span style="color: #FFFFFF">&copy; 2024 William Tilleczek</span>
     border: true
-    background: "#303d4e"
+    background: "#000000"
     foreground: white
   
   navbar:
@@ -29,7 +29,7 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme: simplex
     css: styles.css
     toc: true
 
