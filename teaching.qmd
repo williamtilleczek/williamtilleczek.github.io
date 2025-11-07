@@ -2,6 +2,9 @@
 title: "TEACHING"
 about: 
   template: marquee
+resources: 
+  - "SOC204.pdf"
+  - "HUM010.pdf"
 format: 
       html:
         include-in-header: 
@@ -17,7 +20,7 @@ I take pride in challenging students to move beyond their limitations, while giv
 
 ### **L'Université de Montréal (Instructor of Record)**
 
-POL2090: *Pensée politique prémoderne* \[Premodern Political Thought: Cities and Stories in the Global Mediterranean\] (L'Université de Montréal), Winter 2025 and Winter 2026.
+POL2090: *Pensée politique prémoderne* \[Premodern Political Thought\] (L'Université de Montréal), Winter 2025 and Winter 2026.
 
 ```{=html}
 <p class="text-left">
@@ -38,7 +41,23 @@ Pol 2050: Représentation politique \[Political representation\] (L'Université 
 
 SOC204: *Hannah Arendt and Simone Weil: Work and Politics* (Deep Springs College), Winter 2023.
 
+```{=html}
+<p class="text-left">
+  <a class="btn btn-secondary btn-sm" href="SOC204.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Syllabus here
+  </a>
+```
+
+
 HUM010: *Introduction to Ancient Greek Language & Literature* (Deep Springs College), Winter 2023.
+
+```{=html}
+<p class="text-left">
+  <a class="btn btn-secondary btn-sm" href="HUM010.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Syllabus here
+  </a>
+```
+
 
 ### **Harvard University (Teaching Fellow for Professor Michael Sandel)**
 
