@@ -24,8 +24,15 @@ POL2090: *Pensée politique prémoderne* \[Premodern Political Thought\] (L'Univ
 
 ```{=html}
 <p class="text-left">
+  <a class="btn btn-secondary btn-sm" href="https://pol.umontreal.ca/public/FAS/science_politique/Documents/1-PROGRAMMES_ET_COURS/Cours_et_horaires/Hiver_2026/POL2090_H26_Tilleczek.pdf" target="_blank">
+    </i>&ensp;2026 Syllabus here
+  </a>
+```
+
+```{=html}
+<p class="text-left">
   <a class="btn btn-secondary btn-sm" href="https://pol.umontreal.ca/public/FAS/science_politique/Documents/1-PROGRAMMES_ET_COURS/Cours_et_horaires/Hiver_2025/POL2090_H25_Tilleczek.pdf" target="_blank">
-    </i>&ensp;Syllabus here
+    </i>&ensp;2025 Syllabus here
   </a>
 ```
 
@@ -33,7 +40,7 @@ Pol 2050: Représentation politique \[Political representation\] (L'Université 
 ```{=html}
 <p class="text-left">
   <a class="btn btn-secondary btn-sm" href="https://pol.umontreal.ca/public/FAS/science_politique/Documents/1-PROGRAMMES_ET_COURS/Cours_et_horaires/Automne_2025/POL2050_Tilleczek.pdf" target="_blank">
-    </i>&ensp;Syllabus here
+    </i>&ensp;Syllabus here 
   </a>
 ```
 
